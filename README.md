@@ -4,7 +4,6 @@ I am an **Aspiring Software Engineer** and a 4th-year B.Tech student at SRM Inst
 
 - 🌍  Check out my personal portfolio: [sahilcodes2002.github.io](https://sahilcodes2002.github.io)
 - 🚀  Currently interning at **Nokia**
-- 🛠️  Incoming **Platform Engineer** at IBM
 - 💬  Ask me about **Full-stack JS, C++, and Generative AI**
 
 ---
@@ -36,20 +35,6 @@ I am an **Aspiring Software Engineer** and a 4th-year B.Tech student at SRM Inst
 - **LeetCode/CodeChef:** 500+ problems solved
 - **CodeChef:** 3 Stars (sahil0902)
 - **GeeksforGeeks:** 4 Stars
-
----
-
-### 📂 Featured Projects
-
-- **HABITO:** A secure, serverless productivity platform built with Hono and Cloudflare Workers.
-- **AutoNote:** An AI-powered browser extension for automated note-taking.
-- **Oppurtunitree:** An AI-driven student guidance platform using React and OpenAI.
-
----
-
-### 📈 GitHub Stats
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilcodes2002&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcodes2002&layout=compact&theme=transparent)
 
 ---
 
