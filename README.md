@@ -49,9 +49,13 @@ I am a 4th-year Computer Science student at **SRM Institute of Science and Techn
 
 ### 🏆 Coding Achievements
 <p align="left">
-  <a href="https://leetcode.com/codessahil"><img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://leetcode.com/codessahil"><img src="https://img.shields.io/badge/LeetCode-1700%20Rating-orange?style=for-the-badge&logo=leetcode" /></a>
   <a href="https://www.codechef.com/users/sahil0902"><img src="https://img.shields.io/badge/CodeChef-3%20Star-brown?style=for-the-badge&logo=codechef" /></a>
 </p>
+
+- [cite_start]**LeetCode:** Rated 1700 (Top % of users) with a focus on high-level problem solving.
+- [cite_start]**CodeChef:** 3-Star rated developer (Handle: **sahil0902**).
+- [cite_start]**Academic Excellence:** Proven proficiency in Data Structures and Algorithms with over 500 problems solved[cite: 8, 67].
 
 - **SRM Scholarship:** Awarded for consistent academic performance.
 - **4 Stars on GFG:** Proven proficiency in Data Structures and Algorithms.
