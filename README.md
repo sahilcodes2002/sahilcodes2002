@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-[cite_start]I am a 4th-year Computer Science student at **SRM Institute of Science and Technology**[cite: 42, 43]. [cite_start]I specialize in building scalable production code and have a passion for financial infrastructure and **Generative AI**[cite: 6, 7].
+I am a 4th-year Computer Science student at **SRM Institute of Science and Technology**. I specialize in building scalable production code and have a passion for financial infrastructure and **Generative AI**.
 
 - 🌍  **Portfolio:** [sahilcodes2002.github.io](https://sahilcodes2002.github.io)
 - 💬  **Ask me about:** React, Node.js, C++, and RAG Systems.
@@ -23,15 +23,15 @@
 
 ### 💼 Professional Journey
 
-#### **Nokia** | [cite_start]*Student Intern* (Aug 2025 – Present) [cite: 16, 17]
-- [cite_start]🤖 Building **RAG chatbots** to streamline internal knowledge access[cite: 18].
-- [cite_start]🛠️ Developing **data ingestion pipelines** for large-scale documentation indexing[cite: 19].
-- [cite_start]🖼️ Implementing **image processing modules** for visual knowledge extraction[cite: 20].
+#### **Nokia** | *Student Intern* (Aug 2025 – Present)
+- 🤖 Building **RAG chatbots** to streamline internal knowledge access.
+- 🛠️ Developing **data ingestion pipelines** for large-scale documentation indexing.
+- 🖼️ Implementing **image processing modules** for visual knowledge extraction.
 
-#### **IBM** | [cite_start]*Platform Engineer Intern* (Jun 2025 – Aug 2025) [cite: 10, 11]
-- [cite_start]📈 Created **SalesMate**, automating 90% of B2B sales tasks using Watsonx[cite: 12].
-- [cite_start]🗣️ Built a **multilingual chat UI** that cut query times by 40%[cite: 13].
-- [cite_start]🏆 *Recognized with an **"Exceptional" rating**—the only intern in my cohort to receive it[cite: 15].*
+#### **IBM** | *Platform Engineer Intern* (Jun 2025 – Aug 2025)
+- 📈 Created **SalesMate**, automating 90% of B2B sales tasks using Watsonx.
+- 🗣️ Built a **multilingual chat UI** that cut query times by 40%.
+- 🏆 *Recognized with an **"Exceptional" rating**—the only intern in my cohort to receive it.*
 
 ---
 
@@ -39,11 +39,11 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]JavaScript, C++, Python, Go, Ruby [cite: 52, 53] |
-| **Frontend** | [cite_start]React, Next.js, Tailwind CSS [cite: 52, 55] |
-| **Backend** | [cite_start]Node.js, Express.js, Hono, REST/GraphQL [cite: 55, 64] |
-| **Cloud/DB** | [cite_start]AWS, Cloudflare, Docker, PostgreSQL, MongoDB, Prisma [cite: 57, 59] |
-| **AI/LLM** | [cite_start]Watsonx.ai, RAG, NLP, OpenAI APIs [cite: 63] |
+| **Languages** | JavaScript, C++, Python, Go, Ruby |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Hono, REST/GraphQL |
+| **Cloud/DB** | AWS, Cloudflare, Docker, PostgreSQL, MongoDB, Prisma |
+| **AI/LLM** | Watsonx.ai, RAG, NLP, OpenAI APIs |
 
 ---
 
@@ -53,11 +53,16 @@
   <a href="https://www.codechef.com/users/sahil0902"><img src="https://img.shields.io/badge/CodeChef-3%20Star-brown?style=for-the-badge&logo=codechef" /></a>
 </p>
 
-- [cite_start]**SRM Scholarship:** Awarded for consistent academic performance[cite: 66].
-- [cite_start]**4 Stars on GFG:** Proven proficiency in Data Structures and Algorithms[cite: 69].
+- **SRM Scholarship:** Awarded for consistent academic performance.
+- **4 Stars on GFG:** Proven proficiency in Data Structures and Algorithms.
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilcodes2002&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcodes2002&layout=compact&theme=nord" />
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/sahil-kumar-sinha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
