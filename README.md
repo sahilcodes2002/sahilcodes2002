@@ -53,12 +53,11 @@ I am a 4th-year Computer Science student at **SRM Institute of Science and Techn
   <a href="https://www.codechef.com/users/sahil0902"><img src="https://img.shields.io/badge/CodeChef-3%20Star-brown?style=for-the-badge&logo=codechef" /></a>
 </p>
 
-- **LeetCode:** Rated 1700 (Top % of users) with a focus on high-level problem solving.
-- **CodeChef:** 3-Star rated developer (Handle: **sahil0902**).
+
 - **Academic Excellence:** Proven proficiency in Data Structures and Algorithms with over 500 problems solved.
 
 - **SRM Scholarship:** Awarded for consistent academic performance.
-- **4 Stars on GFG:** Proven proficiency in Data Structures and Algorithms.
+
 
 ---
 
