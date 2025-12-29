@@ -58,11 +58,7 @@ I am a 4th-year Computer Science student at **SRM Institute of Science and Techn
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilcodes2002&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcodes2002&layout=compact&theme=nord" />
-</div>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/sahil-kumar-sinha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
