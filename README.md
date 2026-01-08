@@ -23,7 +23,7 @@ I am a 4th-year Computer Science student at **SRM Institute of Science and Techn
 
 ### 💼 Professional Journey
 
-#### **Nokia** | *Student Intern* (Aug 2025 – Present)
+#### **Nokia** | *Student Intern* (Aug 2025 – Dec 2025)
 - 🤖 Building **RAG chatbots** to streamline internal knowledge access.
 - 🛠️ Developing **data ingestion pipelines** for large-scale documentation indexing.
 - 🖼️ Implementing **image processing modules** for visual knowledge extraction.
