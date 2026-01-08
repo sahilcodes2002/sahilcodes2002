@@ -1,10 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Sahil Kumar Sinha 👋</h1>
-  <p><strong>Aspiring Software Engineer | Intern @ Nokia | Incoming @ IBM</strong></p>
+  <p><strong>Aspiring Software Engineer | Former Intern @ Nokia | Former Intern @ IBM</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/SRM%20IST-CGPA%209.54-blue?style=flat-square&logo=google-scholar" alt="Education" />
-    <img src="https://img.shields.io/badge/Interning%20at-Nokia-blue?style=flat-square&logo=nokia" alt="Nokia" />
+    <img src="https://img.shields.io/badge/Interning%20at-InteractGEN-blue?style=flat-square&logo=nokia" alt="InteractGEN" />
+    <img src="https://img.shields.io/badge/Former%20Intern-Nokia-blue?style=flat-square&logo=nokia" alt="Nokia" />
     <img src="https://img.shields.io/badge/Former%20Intern-IBM-blue?style=flat-square&logo=ibm" alt="IBM" />
     <img src="https://img.shields.io/badge/Location-Bangalore-red?style=flat-square&logo=google-maps" alt="Location" />
   </p>
