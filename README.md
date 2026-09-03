@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Sahil Kumar Sinha 👋</h1>
-  <p><strong>Aspiring Software Engineer | Former Intern @ Nokia | Former Intern @ IBM</strong></p>
+  <p><strong> Engineer @ IBM | Former SDE InteractAI | Former Intern @ Nokia | Former Intern @ IBM</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/SRM%20IST-CGPA%209.54-blue?style=flat-square&logo=google-scholar" alt="Education" />
